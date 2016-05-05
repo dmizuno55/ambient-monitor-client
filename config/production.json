@@ -1,0 +1,12 @@
+{
+  "api": {
+    "host": "192.168.33.11",
+    "port": 3000,
+    "path": "/apt/atmos"
+  },
+  "intervalMilliSec": 30000,
+  "serial": {
+    "port": "/dev/ttyUSB0",
+    "boudRate": 115200
+  }
+}
