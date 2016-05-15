@@ -1,8 +1,7 @@
 {
   "api": {
     "host": "localhost",
-    "port": 3000,
-    "path": "/apt/atmos"
+    "port": 3000
   },
   "intervalMilliSec": 30000,
   "serial": {

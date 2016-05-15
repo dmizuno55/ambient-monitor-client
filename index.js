@@ -41,7 +41,7 @@ function send_(data) {
     host: config.api.host,
     port: config.api.port,
     method: 'POST',
-    path: config.api.path,
+    path: '/api/atmos',
     headers: {
       'content-type': 'application/json'
     }
